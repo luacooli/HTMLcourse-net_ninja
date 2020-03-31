@@ -1,5 +1,5 @@
-## Learning HTML from The Net Ninja
+# Learning HTML from The Net Ninja
 
-# Basics tags
+### Basics tags
 
-# Title tags
+### Title tags
